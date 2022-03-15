@@ -1,4 +1,4 @@
-# Projeto Codigo da Vinci v3
+# Projeto Código da Vinci v3
 
 Nesse projeto foi criado, usando o Framework que eu baixei do site https://mobirise.com/, com o objetivo de por em prática os princípios e funcionalidade dos primeiros 
 passos em html, css e javascript nesse site estático, usando essa ferramenta fantástica. 
